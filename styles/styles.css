@@ -1298,6 +1298,7 @@ body {
   background-color: #FEAFC3;
   border: 2px solid #2D3440;
   background-clip: padding-box;
+  padding: 14px 34px;
 }
 
 .submit-button:focus {
